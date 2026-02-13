@@ -1,0 +1,115 @@
+{
+  "timetable": [
+    {
+      "weekType": "odd",
+      "day": "Monday",
+      "events": [
+        { "title": "English", "details": "2PT05", "startTime": "08:45", "endTime": "08:55" },
+        { "title": "English", "details": "2PT05", "startTime": "08:55", "endTime": "10:35" },
+        { "title": "English", "details": "2PT05", "startTime": "11:00", "endTime": "12:40" },
+        { "title": "English", "details": "2PT05", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "2PT05", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "odd",
+      "day": "Tuesday",
+      "events": [
+        { "title": "English", "details": "2PT05", "startTime": "08:45", "endTime": "10:25" },
+        { "title": "English", "details": "2PT05", "startTime": "10:50", "endTime": "11:50" },
+        { "title": "English", "details": "2PT05", "startTime": "11:50", "endTime": "12:40" },
+        { "title": "English", "details": "2PT05", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "2PT05", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "odd",
+      "day": "Wednesday",
+      "events": [
+        { "title": "English", "details": "2PT05", "startTime": "09:50", "endTime": "11:05" },
+        { "title": "English", "details": "2PT05", "startTime": "11:30", "endTime": "12:40" },
+        { "title": "English", "details": "2PT05", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "2PT05", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "odd",
+      "day": "Thursday",
+      "events": [
+        { "title": "English", "details": "2PT05", "startTime": "08:45", "endTime": "10:25" },
+        { "title": "English", "details": "2PT05", "startTime": "10:50", "endTime": "11:40" },
+        { "title": "English", "details": "2PT05", "startTime": "11:40", "endTime": "12:40" },
+        { "title": "English", "details": "2PT05", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "2PT05", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "odd",
+      "day": "Friday",
+      "events": [
+        { "title": "English", "details": "2PT05", "startTime": "08:45", "endTime": "08:55" },
+        { "title": "English", "details": "2PT05", "startTime": "08:55", "endTime": "10:15" },
+        { "title": "English", "details": "2PT05", "startTime": "10:40", "endTime": "11:40" },
+        { "title": "English", "details": "2PT05", "startTime": "11:40", "endTime": "12:40" },
+        { "title": "English", "details": "2PT05", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "2PT05", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+
+    {
+      "weekType": "even",
+      "day": "Monday",
+      "events": [
+        { "title": "English", "details": "2PT05", "startTime": "08:45", "endTime": "08:55" },
+        { "title": "English", "details": "2PT05", "startTime": "08:55", "endTime": "10:35" },
+        { "title": "English", "details": "2PT05", "startTime": "11:00", "endTime": "12:40" },
+        { "title": "English", "details": "2PT05", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "2PT05", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "even",
+      "day": "Tuesday",
+      "events": [
+        { "title": "English", "details": "2PT05", "startTime": "08:45", "endTime": "10:25" },
+        { "title": "English", "details": "2PT05", "startTime": "10:50", "endTime": "11:50" },
+        { "title": "English", "details": "2PT05", "startTime": "11:50", "endTime": "12:40" },
+        { "title": "English", "details": "2PT05", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "2PT05", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "even",
+      "day": "Wednesday",
+      "events": [
+        { "title": "English", "details": "2PT05", "startTime": "09:50", "endTime": "11:05" },
+        { "title": "English", "details": "2PT05", "startTime": "11:30", "endTime": "12:40" },
+        { "title": "English", "details": "2PT05", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "2PT05", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "even",
+      "day": "Thursday",
+      "events": [
+        { "title": "English", "details": "2PT05", "startTime": "08:45", "endTime": "10:05" },
+        { "title": "English", "details": "2PT05", "startTime": "10:30", "endTime": "11:20" },
+        { "title": "English", "details": "2PT05", "startTime": "11:20", "endTime": "12:40" },
+        { "title": "English", "details": "2PT05", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "2PT05", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "even",
+      "day": "Friday",
+      "events": [
+        { "title": "English", "details": "2PT05", "startTime": "08:45", "endTime": "08:55" },
+        { "title": "English", "details": "2PT05", "startTime": "08:55", "endTime": "10:15" },
+        { "title": "English", "details": "2PT05", "startTime": "10:40", "endTime": "11:40" },
+        { "title": "English", "details": "2PT05", "startTime": "11:40", "endTime": "12:40" },
+        { "title": "English", "details": "2PT05", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "2PT05", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    }
+  ]
+}
