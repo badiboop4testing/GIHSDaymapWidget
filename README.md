@@ -7,11 +7,12 @@ Made entirely on TurboWarp, GIHS Daymap Widget is a *simple* and *easy* way to d
 
 ## Features
 - Switch between your fortnightly timetable with the click of a button.
-- Fits perfectly onto 16:10 screens.
+- Fits perfectly onto 16:10 screens (Not tested on 16:9)
 - Shows both your current lesson and your upcoming lesson.
 # Installation
 Please note that GIHS Daymap Widget is still under development; **please expect some minor bugs**. You can always report issues in the issues tab. Also note that this has only been tested on Windows. If you are on Mac, this may not work.
-### Dependancies
+
+Before using GIHS Daymap Widget, you must install the following apps:
 - Lively Wallpaper
 - TurboWarp Desktop (alternatively, you can use the web version)
 - VS Code or Notepad
