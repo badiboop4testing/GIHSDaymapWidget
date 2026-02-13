@@ -1,0 +1,115 @@
+{
+  "timetable": [
+    {
+      "weekType": "odd",
+      "day": "Monday",
+      "events": [
+        { "title": "MG", "details": "4SCO6", "startTime": "08:45", "endTime": "08:55" },
+        { "title": "English", "details": "3HSO5", "startTime": "08:55", "endTime": "10:35" },
+        { "title": "PE", "details": "3GCO5", "startTime": "11:00", "endTime": "12:40" },
+        { "title": "Science", "details": "4SCO1", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "Humanities", "details": "3CLO3", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "odd",
+      "day": "Tuesday",
+      "events": [
+        { "title": "Math", "details": "2MAO5", "startTime": "08:45", "endTime": "10:25" },
+        { "title": "Music", "details": "1DMO7", "startTime": "10:50", "endTime": "11:50" },
+        { "title": "LEAP", "details": "4SCO6", "startTime": "11:50", "endTime": "12:40" },
+        { "title": "Chinese", "details": "3LAO7", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "Science", "details": "4SCO1", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "odd",
+      "day": "Wednesday",
+      "events": [
+        { "title": "Humanities", "details": "3CLO3", "startTime": "09:50", "endTime": "11:05" },
+        { "title": "PE", "details": "3GCO5", "startTime": "11:30", "endTime": "12:40" },
+        { "title": "Music", "details": "1DMO7", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "3HSO5", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "odd",
+      "day": "Thursday",
+      "events": [
+        { "title": "Science", "details": "4SCO1", "startTime": "08:45", "endTime": "10:25" },
+        { "title": "LEAP", "details": "4SCO6", "startTime": "10:50", "endTime": "11:40" },
+        { "title": "Chinese", "details": "3LAO7", "startTime": "11:40", "endTime": "12:40" },
+        { "title": "Math", "details": "2MAO5", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "Music", "details": "1DMO7", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "odd",
+      "day": "Friday",
+      "events": [
+        { "title": "MG", "details": "4SCO6", "startTime": "08:45", "endTime": "08:55" },
+        { "title": "Math", "details": "2MAO5", "startTime": "08:55", "endTime": "10:15" },
+        { "title": "PE", "details": "3GCO5", "startTime": "10:40", "endTime": "11:40" },
+        { "title": "English", "details": "3HSO5", "startTime": "11:40", "endTime": "12:40" },
+        { "title": "Humanities", "details": "3CLO3", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "Chinese", "details": "3LAO7", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+
+    {
+      "weekType": "even",
+      "day": "Monday",
+      "events": [
+        { "title": "MG", "details": "4SCO6", "startTime": "08:45", "endTime": "08:55" },
+        { "title": "Humanities", "details": "3CLO3", "startTime": "08:55", "endTime": "10:35" },
+        { "title": "Chinese", "details": "3LAO7", "startTime": "11:00", "endTime": "12:40" },
+        { "title": "PE", "details": "3GCO5", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "English", "details": "3HSO5", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "even",
+      "day": "Tuesday",
+      "events": [
+        { "title": "Music", "details": "1DMO7", "startTime": "08:45", "endTime": "10:25" },
+        { "title": "Science", "details": "4SCO1", "startTime": "10:50", "endTime": "11:50" },
+        { "title": "LEAP", "details": "4SCO6", "startTime": "11:50", "endTime": "12:40" },
+        { "title": "Math", "details": "2MAO5", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "Chinese", "details": "3LAO7", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "even",
+      "day": "Wednesday",
+      "events": [
+        { "title": "English", "details": "3HSO5", "startTime": "09:50", "endTime": "11:05" },
+        { "title": "PE", "details": "3GCO5", "startTime": "11:30", "endTime": "12:40" },
+        { "title": "Humanities", "details": "3CLO3", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "Science", "details": "4SCO1", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "even",
+      "day": "Thursday",
+      "events": [
+        { "title": "Chinese", "details": "3LAO7", "startTime": "08:45", "endTime": "10:05" },
+        { "title": "LEAP", "details": "4SCO6", "startTime": "10:30", "endTime": "11:20" },
+        { "title": "Science", "details": "4SCO1", "startTime": "11:20", "endTime": "12:40" },
+        { "title": "Music", "details": "1DMO7", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "Math", "details": "2MAO5", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    },
+    {
+      "weekType": "even",
+      "day": "Friday",
+      "events": [
+        { "title": "MG", "details": "4SCO6", "startTime": "08:45", "endTime": "08:55" },
+        { "title": "Music", "details": "1DMO7", "startTime": "08:55", "endTime": "10:15" },
+        { "title": "Humanities", "details": "3CLO3", "startTime": "10:40", "endTime": "11:40" },
+        { "title": "Math", "details": "2MAO5", "startTime": "11:40", "endTime": "12:40" },
+        { "title": "English", "details": "3HSO5", "startTime": "13:25", "endTime": "14:25" },
+        { "title": "PE", "details": "3GCO5", "startTime": "14:25", "endTime": "15:25" }
+      ]
+    }
+  ]
+}
