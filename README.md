@@ -31,7 +31,7 @@ Q: Will it work on my Mac?
 
 A: Probably not... it hasn't been tested.
 # Installation
-Please note that GIHS Daymap Widget is still under development; **please expect some minor bugs**. You can always report issues in the issues tab. Also note that this has only been tested on Windows. If you are on Mac, this may not work.
+Please note that GIHS Daymap Widget is still under development; **please expect some minor bugs**. You can always report issues in the issues tab, or DM me on Discord. Also note that this has only been tested on Windows. If you are on Mac, this may not work.
 
 Before using GIHS Daymap Widget, you must install the following apps:
 - Lively Wallpaper
