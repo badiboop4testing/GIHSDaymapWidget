@@ -2,7 +2,7 @@
 Made entirely on TurboWarp, GIHS Daymap Widget is a *simple* and *easy* way to display your Daymap timetable on your desktop. Check your next lesson and upcoming lessons at a glance. Made for Glenunga International High School students and teachers.
 
 
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/70ec0d1c-2cac-4692-85a2-62908f9e4ff3" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/956da94f-acad-47f8-9163-27f46afda577" />
 
 
 ## Features
