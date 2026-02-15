@@ -62,4 +62,4 @@ Now that you have all of the assets ready, you can finally place your widget on 
 Once the wallpaper finishes uploading, click on it in lively wallpaper. Once the widget appears on your desktop, you can move it to your desired position using the arrow keys.
 
 
-##### ©2026 Badiboop4. All files and assets belong to Badiboop4; do not redistrobute.
+##### ©2026 Badiboop4. All files and assets belong to Badiboop4; do not redistribute.
