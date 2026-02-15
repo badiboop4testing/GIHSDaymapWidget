@@ -10,6 +10,26 @@ Made entirely on TurboWarp, GIHS Daymap Widget is a *simple* and *easy* way to d
 - Fits perfectly on all screens with a resolution higher than 500x300.
 - Shows both your current lesson and your upcoming lesson.
 - Works **completely offline**. You can view your next lesson in the morning if you live under a rock.
+## FAQ
+Q: Why do I need TurboWarp?
+
+A: Because I made it on TurboWarp....
+
+Q: Can I use Scratch instead?
+
+A: No. It won't work.
+
+Q: What if I don't want to install TurboWarp?
+
+A: You can use the web version (https://turbowarp.org/editor)
+
+Q: Doesn't Lively Wallpaper consume a lot of battery?
+
+A: It will last the whole day even without the energy saver.
+
+Q: Will it work on my Mac?
+
+A: Probably not... it hasn't been tested.
 # Installation
 Please note that GIHS Daymap Widget is still under development; **please expect some minor bugs**. You can always report issues in the issues tab. Also note that this has only been tested on Windows. If you are on Mac, this may not work.
 
