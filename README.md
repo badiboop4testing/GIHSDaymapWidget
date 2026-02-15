@@ -40,7 +40,7 @@ Before using GIHS Daymap Widget, you must install the following apps:
 
 ### Setting up the widget
 1. Download the files ```Template.json``` and ```Dayplan.sb3``` from the ```main``` branch. Open up template.json in VS Code or Notepad, then replace the placeholders with your lessons and class codes.
-2. Open TurboWarp Deskop and go ```File>Load from your computer```. Upload ```Dayplan.sb3``` and wait for it to load. Once it finishes, press the green flag at then hold down ```Shift-O```, then select your edited ```Template.json```.
+2. Open TurboWarp Deskop and go ```File>Load from your computer```. Upload ```Dayplan.sb3``` and wait for it to load. Open up the subfolder named ```Overlay```, and select the sprite, ```Main```. On the far right of the coding area, there is an orange variable block that says ```set [Timetable.json] to (open a file as (text))]```; click on it, then, when prompted, upload ```Template.json```.
 3. If you would like to use your own custom wallpaper, you can edit the ```Wallpaper``` sprite. If you leave it, you'll use the default wallpaper.
 4. Wait a few seconds before pressing the red stop button to stop the project. In the top right hand corner, press the button that says ```Save to your computer```.
 ### Creating the wallpaper
