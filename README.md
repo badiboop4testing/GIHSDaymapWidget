@@ -9,6 +9,7 @@ Made entirely on TurboWarp, GIHS Daymap Widget is a *simple* and *easy* way to d
 - Switch between your fortnightly timetable with the click of a button.
 - Fits perfectly on all screens with a resolution higher than 500x300.
 - Shows both your current lesson and your upcoming lesson.
+- Works **completely offline**. You can view your next lesson in the morning if you live under a rock.
 # Installation
 Please note that GIHS Daymap Widget is still under development; **please expect some minor bugs**. You can always report issues in the issues tab. Also note that this has only been tested on Windows. If you are on Mac, this may not work.
 
